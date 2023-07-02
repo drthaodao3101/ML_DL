@@ -1,4 +1,4 @@
-# :revolving_hearts: My Favorite List of Emojis
+# :revolving_hearts: My Favorite Emojis List
 
 This cheat sheet is imitated and rewritten from [GitHub Emoji API](https://api.github.com/emojis), [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html) and [Git ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet.git).
 
