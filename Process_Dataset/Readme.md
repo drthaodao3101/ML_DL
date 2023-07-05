@@ -1,8 +1,8 @@
-Numpy
-Preprocess Dataset: Create, split, ... 
+# Numpy
+# Preprocess Dataset: Create, split, ... 
 - Json
 - Pandas
 - Excel
-Visualize Dataset
+# Visualize Dataset
 - Seaborn
 - Matplotlib
